@@ -22,7 +22,7 @@ public class AICDemo {
            System.out.println("driver");//Anonomous in a class
        }
    };
-   obj.drive();
+  obj.drive();
 
     }
 }
